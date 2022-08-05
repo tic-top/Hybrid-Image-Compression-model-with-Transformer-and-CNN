@@ -54,8 +54,6 @@ CUDA_VISIBLE_DEVICES=0 python compression/test.py --config example/config_swin_8
 
 
 ## Acknowledgement
-
-[Swin-Transformer]:https://github.com/microsoft/Swin-Transformer
-[compression]:https://github.com/liujiaheng/compression
+The codes are heavily based on [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) and [compression](https://github.com/liujiaheng/compression).
 
 

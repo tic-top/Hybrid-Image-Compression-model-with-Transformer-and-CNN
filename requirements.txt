@@ -1,0 +1,7 @@
+numpy
+torch>=1.0
+torchvision
+pillow
+matplotlib
+tensorboardX
+timm~=0.4.12

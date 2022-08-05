@@ -1,6 +1,6 @@
 
 ## Overview
-Pytorch code of ece4880project, Hybrid Image Compression model with Transformer and CNN.
+Pytorch code of ECE4880 project, Hybrid Image Compression model with Transformer and CNN.
 
 
 ## Content
